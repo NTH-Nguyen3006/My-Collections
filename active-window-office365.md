@@ -25,4 +25,4 @@ Finally, you should restart your divice.
 - `KMS38 Method` to Activate Windows Till the Year 2038
 - `Online KMS Method` to Activate Windows/Office For 180 Days (Lifetime With - Renewal Task)
 
-![image](./assets/image.png)
+![image](./assets/Activation-method-img.png)
